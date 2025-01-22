@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate and enthusiastic Junior Java Deve
 - **Languages**: Java, SQL, JavaScript, HTML, CSS
 - **Frameworks**: Spring Boot, React.js, Bootstrap
 - **Database**: MySQL
-- **Tools**: IntelliJ IDEA, NetBeans, Git, GitHub, Postman
+- **Tools**: Eclipse IDE, NetBeans, Git, GitHub, Postman
 
 ## 📈 GitHub Stats
 
@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate and enthusiastic Junior Java Deve
 Here are some of my notable projects:
 
 - **[Expense Tracker](#)**: A full-stack expense tracking application where users can add and manage their expenses. Built with Spring Boot, React.js, and MySQL.
-- **[Payroll Management System](#)**: A payroll management system that automates employee salary calculations, deductions, and generates pay slips. Built with Java, Spring Boot, and MySQL.
+- **[Payroll Management System](#)**: A payroll management system that automates employee salary calculations, deductions, and generates pay slips. Built using **Java Swing** for the front end and **MySQL Database** for data management. The system is developed using **NetBeans IDE**.
 
 ## 🏆 Main
 
