@@ -18,10 +18,6 @@ Welcome to my GitHub profile! I'm a passionate and enthusiastic Junior Java Deve
 - **Database**: MySQL
 - **Tools**: Eclipse IDE, NetBeans, Git, GitHub, Postman
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
 ## 👨‍💻 Projects
 
 Here are some of my notable projects:
